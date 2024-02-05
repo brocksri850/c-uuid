@@ -1,0 +1,1 @@
+If you are concerned about the security of UUIDs and are seeking an alternative, please contact the maintainers of the `UUID` module by emailing them. You can find their email addresses through the command `npm owner ls uuid`.
